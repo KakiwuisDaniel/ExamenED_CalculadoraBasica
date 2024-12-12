@@ -5,6 +5,7 @@ public class SumaNumeros {
 	
 	//comentario de modificacionnn
 	//Cambio realizado desde rama feature-suma
+	//Comentario despues de la fusion
 	
 public static void main(String[] args) {
 Scanner scanner = new Scanner(System.in);
