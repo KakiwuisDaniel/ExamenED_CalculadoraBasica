@@ -4,6 +4,7 @@ import java.util.Scanner;
 public class SumaNumeros {
 	
 	//comentario de modificacionnn
+	//Cambio realizado desde rama feature-suma
 	
 public static void main(String[] args) {
 Scanner scanner = new Scanner(System.in);
