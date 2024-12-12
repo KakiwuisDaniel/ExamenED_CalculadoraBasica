@@ -3,7 +3,7 @@ package CalculadoraBasica;
 import java.util.Scanner;
 public class SumaNumeros {
 	
-	//comentario de modificacionn
+	//comentario de modificacionnn
 	
 public static void main(String[] args) {
 Scanner scanner = new Scanner(System.in);
